@@ -1,6 +1,6 @@
 [package]
 name = "rhwd"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["Andy Bell <andy.bell.github@gmail.com>"]
 edition = "2018"
 license = "Parity-6.0.0 AND Apache-2.0"
