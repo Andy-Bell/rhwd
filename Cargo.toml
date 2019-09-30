@@ -3,6 +3,8 @@ name = "rhwd"
 version = "0.1.0"
 authors = ["Andy Bell <andy.bell.github@gmail.com>"]
 edition = "2018"
+license = "Parity-6.0.0 AND Apache-2.0"
+repository = "https://github.com/andy-bell/rhwd"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
