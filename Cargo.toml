@@ -9,3 +9,7 @@ repository = "https://github.com/andy-bell/rhwd"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+diesel = "1.4.2"
+hyper = "0.12.35"
+r2d2 = "0.8.5"
+serde_json = "1.0.40"
